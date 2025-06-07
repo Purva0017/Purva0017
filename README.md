@@ -46,8 +46,8 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=purva0017&show_icons=true&locale=en&layout=compact" alt="purva0017" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=purva0017&show_icons=true&locale=en&layout=compact" alt="purva0017" /></p> -->
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purva0017&" alt="purva0017" /></p>
+<!-- <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purva0017&" alt="purva0017" /></p> -->
 
-![snake gif](https://github.com/Purva0017/Purva0017/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Purva0017/Purva0017/blob/output/github-contribution-grid-snake.svg) -->
